@@ -1,0 +1,2 @@
+# ezaki-discord
+discord bots
